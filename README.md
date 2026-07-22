@@ -102,3 +102,5 @@ The deployment phase of the project is currently under development. Future enhan
 ## Author
 
 Aneena Sabu
+Anusheka Srivastava
+Angel Jain
